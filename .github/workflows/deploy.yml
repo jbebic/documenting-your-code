@@ -31,7 +31,7 @@ jobs:
 
     - name: Install randomly
       run: |
-        pip install . randomly
+        pip install .
 
 
     # Build the book
